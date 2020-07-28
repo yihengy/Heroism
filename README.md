@@ -16,6 +16,7 @@ Windows系统：
 使用组合键：win+R打开系统中的运行程序；
 打开之后输入命令：cmd 来调出系统中的Terminal服务程序；
 一行一行地输入以下内容然后敲击回车（return）：
+
     cd desktop【换行】
     git clone https://github.com/yihengy/Heroism【换行】
 
@@ -27,6 +28,7 @@ Windows系统：
 苹果Mac OS系统：
 应用程序搜索“终端”；
 一行一行地输入以下内容然后敲击回车（return）：
+
     cd desktop【换行】
     git clone https://github.com/yihengy/Heroism【换行】
 
